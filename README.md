@@ -7,10 +7,13 @@
 
 ## 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,javascript,python,java,mysql,c,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,javascript,python,java,mysql,c,html,css,flutter" />
 </p>
 
-
+## Connect with me:
+<p align="left">
+<a href="www.linkedin.com/in/abdul-basith-m-n" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+</p>
 <!--
 **Basithmn/Basithmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
