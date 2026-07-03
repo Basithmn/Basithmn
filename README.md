@@ -1,4 +1,15 @@
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey!+I'm+Abdul+Basith+M+N;" alt="Typing SVG" />
+</p>
+
 ## Hi there 👋
+
+## 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,javascript,python,java,mysql,c,html,css" />
+</p>
+
 
 <!--
 **Basithmn/Basithmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
