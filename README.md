@@ -12,7 +12,7 @@ Aspiring Software Developer
 
 ## Connect with me:
 <p align="left">
-<a href="www.linkedin.com/in/abdul-basith-m-n" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.linkedin.com/in/abdul-basith-m-n/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
 <!--
 **Basithmn/Basithmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
