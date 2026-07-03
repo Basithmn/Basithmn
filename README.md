@@ -4,7 +4,7 @@
 </p>
 
 ## Hi there 👋
-
+Aspiring Software Developer
 ## 🛠️ Tech Stack  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,javascript,python,java,mysql,c,html,css,flutter" />
